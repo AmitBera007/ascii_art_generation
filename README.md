@@ -1,1 +1,1 @@
-# ascii_art_generator
+# ASCII Art Generation
